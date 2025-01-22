@@ -228,14 +228,14 @@ button {
 
 .text-on-cardh1 {
   text-transform: uppercase;
-  font-size: 72px;
+  font-size: 9.5vh;
   font-family: 'Tinos', serif;
   font-weight: 400;
   font-style: normal;
 }
 
 .text-on-cardh2 {
-  font-size: 50px;
+  font-size: 9vh;
   font-family: 'Monsieur La Doulaise', serif;
   font-weight: 400;
   font-style: normal;
@@ -244,5 +244,5 @@ button {
 }
 
 .smaller-text {
-  font-size: 20px;
+  font-size: 3vh;
 }
